@@ -11,6 +11,7 @@ Flask(Python), MySQL
 2. Get inside of Online-Voting
 3. Make sure you have Python3
 just type: python3 in your terminal to check Python3 installed or not.
-4. Install MySQL. Link: https://dev.mysql.com/downloads/installer/
-
+4. Install [MySQL.] (https://dev.mysql.com/downloads/installer/ "Link")
+5. Install [Virtual Environment.] (https://virtualenv.pypa.io/en/stable/installation/ "Link")
+6. Use your terminal and make sure you are inside the Online-Voting.
 
