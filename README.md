@@ -8,6 +8,7 @@ Flask(Python), MySQL
 
 ## Installation
 1. Clone the repo https://github.com/rahuldecoded/Online-Voting and `cd` into the directory.  
+   `git clone https://github.com/rahuldecoded/Online-Voting.git`
    `cd Online-Voting`
 2. Make sure you have Python3 just type: `$ python3` in your terminal to check Python3 installed or not.
 3. Install [MySQL.](https://dev.mysql.com/downloads/installer/)
