@@ -22,3 +22,5 @@ Type the following command in your terminal.
    `$ app\scripts\activate` (Windows)
 7. Run the below code.  
 `pip install -r requirements.txt`
+8. Start the server. Make sure you are in Online-Voting directory, run the follwing command.
+   `$ python init.py`
