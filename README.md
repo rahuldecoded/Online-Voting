@@ -14,7 +14,9 @@ Flask(Python), MySQL
 5. Install [Virtual Environment.](https://virtualenv.pypa.io/en/stable/installation/)  
 `[username@host Online-Voting]$ pip3 install virtualenv`
 6. Use your terminal and make sure you are inside the Online-Voting.  
-   `[username@host Online-Voting]$ virtualenv app`  
+   `[username@host Online-Voting]$`  
+Type the following command in your terminal.
+   `$ virtualenv app`  
    `$ source app/bin/activate`
 7. Run the below code.
 `pip install -r requirements.txt`
