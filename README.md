@@ -15,7 +15,7 @@ Flask(Python), MySQL
 `[username@host Online-Voting]$ pip3 install virtualenv`
 6. Use your terminal and make sure you are inside the Online-Voting.  
    `[username@host Online-Voting]$`  
-Type the following command in your terminal.
+Type the following command in your terminal.  
    `$ virtualenv app`  
    `$ source app/bin/activate`
 7. Run the below code.
