@@ -1,4 +1,4 @@
-# Online-Voting
+#Online-Voting
 Online Voting System.
 #### Front-End
 HTML, CSS, BootStrap
@@ -13,11 +13,12 @@ Flask(Python), MySQL
 2. Make sure you have Python3 just type: `$ python3` in your terminal to check Python3 installed or not.
 3. Install [MySQL.](https://dev.mysql.com/downloads/installer/)
 4. Install [Virtual Environment.](https://virtualenv.pypa.io/en/stable/installation/)  
-`[username@host Online-Voting]$ pip3 install virtualenv`
+`[username@host Online-Voting]$ pip install virtualenv`
 5. Use your terminal and make sure you are inside the Online-Voting.  
    `[username@host Online-Voting]$`  
 Type the following command in your terminal.  
    `$ virtualenv app`  
-   `$ source app/bin/activate`
+   `$ source app/bin/activate` (Linux)  
+   `$ app\scripts\activate` (Windows)
 7. Run the below code.  
 `pip install -r requirements.txt`
