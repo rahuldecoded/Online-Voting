@@ -18,5 +18,5 @@ Flask(Python), MySQL
 Type the following command in your terminal.  
    `$ virtualenv app`  
    `$ source app/bin/activate`
-7. Run the below code.
+7. Run the below code.  
 `pip install -r requirements.txt`
